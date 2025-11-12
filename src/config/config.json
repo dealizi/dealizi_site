@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "DEALIZI - Deals Made Easy",
+    "title": "DEALIZI-Deals Made Easy",
     "base_url": "https://dealizi.com",
     "logo_text": "Dealizi"
     "trailing_slash": true,
